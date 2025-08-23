@@ -11,10 +11,10 @@
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
-• 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
+
+• 🌱 I’m currently learning Data Analytic...<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Panaverse, PIAIC.<br>
+• 📗 I'm currently Learning from BanoQabil, Data-Analysis-Foundation.<br>
 • 🔥 Digital maeketing + Graphic designer.<br>
 • 💸 LEVEL-01 SELLER of @wajahatahmed895 on Fiverr.<br>
 <hr>
