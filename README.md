@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Wajahat Ahmed👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/wajahatahmed"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Digital Marketar;+Graphic designer,&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/wajahatahmed"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Digital+Marketar;+Graphic+designer,&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 <!-- animation end  -->
 			
@@ -15,7 +15,7 @@
 • 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
-• 🔥 Python Developer and Power BI Developer.<br>
+• 🔥 Digital maeketing + Graphic designer.<br>
 • 💸 LEVEL-01 SELLER of @wajahatahmed895 on Fiverr.<br>
 <hr>
 
