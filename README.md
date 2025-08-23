@@ -16,7 +16,7 @@
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • 🔥 Python Developer and Power BI Developer.<br>
-• 💸 LEVEL-01 SELLER of Wajahat Ahmed on Fiverr.<br>
+• 💸 LEVEL-01 SELLER of @wajahatahmed895 on Fiverr.<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
@@ -25,22 +25,19 @@
 
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:wajahatahmed1010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="MuaazAsif Ali - Email"></a>
-    <a href="https://www.linkedin.com/in/wajahat ahmed/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
-    <a href="https://www.facebook.com/muaaz.asif.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="MuaazAsif Ali- Facebook"></a>
-    <a href="https://www.fiverr.com/muaazasif572" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Muaaz Asif-fiverr"></a>
-<a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/PowerBi-0D1117?style=for-the-badge&logo=PowerBi&logoColor=F0DB4F" alt="MuaazAsif Ali-Power Bi"></a>
-	<a href="https://muaazasif.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=F0DB4F" alt="MuaazAsif Ali-Portfolio"></a>
-	
-
+    <a href="mailto:wajahatahmed1010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Wajahat Ahmed - Email"></a>
+    <a href="https://www.linkedin.com/in/wajahat-ahmed-5710a7319/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
+    <a href="https://www.facebook.com/wajahat ahmed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Wajahat Ahmed- Facebook"></a>
+    <a href="https://www.fiverr.com/muaazasif572" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Wajahat Ahmed-fiverr"></a>
+<a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/PowerBi-0D1117?style=for-the-badge&logo=PowerBi&logoColor=F0DB4F" alt="wajahat Ahmed-Power Bi"></a>
 </div>
 
 </p>
 
 ## Top Open Source -
 [![CLI ATM Project](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=cli-atm-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/cli-atm-project)
-[![CLI Guessing Number](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=cli-guessing-number&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/cli-guessing-number)
-[![CLI Simple Calculator](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=simple-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/simple-calculator)
+[![CLI Guessing Number](https://github-readme-stats.vercel.app/api/pin/?username=wajahatahmed&repo=cli-guessing-number&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/wajahatahmed/cli-guessing-number)
+[![CLI Simple Calculator](https://github-readme-stats.vercel.app/api/pin/?username=wajahatahmed&repo=simple-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/simple-calculator)
 [![MuaazAsif Readme](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=muaazasif&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/muaazasif)
 
 <p align="left">
